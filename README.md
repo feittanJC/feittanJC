@@ -19,8 +19,7 @@
 <br>
 
 -  📍 I'm living in Lima, Perú
-- 📚 I'm currently studying at Tecsup
-- 🌱 I'm currently in the race **Software Design and Development**
+- 📚 I'm currently studying **Software Design and Development** at Tecsup
 - 📫 How to reach me **josuecastillom07@gmail.com**
 
 <!-- Personal website [link](https://www.0xabdulkhalid.ml) -->
